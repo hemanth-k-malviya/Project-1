@@ -12,8 +12,8 @@ You can view the demo of the IIP Academy website below:
 
 ## Technologies Used
 
-- HTML (78.8%)
-- CSS (21.2%)
+- HTML
+- CSS
 
 ## Installation
 
