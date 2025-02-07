@@ -6,7 +6,7 @@ This repository contains the code for the iipacademy website.
 This project is a website for iipacademy. It is built using HTML and CSS.
 
 ## Demo
-You can view the demo of the IIP Academy website by clicking the link below:
+You can view the demo of the IIP Academy website below:
 
 [Demo Video](https://github.com/user-attachments/assets/cb639e0d-77c3-4d0d-aa97-74e706c3a215)
 
